@@ -523,6 +523,9 @@ color: white !important;
   .banner {
     min-height: 400px;
   }
+  
+  .cd-words-wrapper{
+    font-size: 25px !important;}
 }
 
 .about-wrap {
